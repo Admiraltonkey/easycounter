@@ -1,0 +1,10 @@
+.borderProject{
+    border: 2px solid red;
+    margin-right: 1200px;
+    background-color: aquamarine;
+}
+
+.s{
+    border: 1px solid red;
+    padding: 5px;
+}
